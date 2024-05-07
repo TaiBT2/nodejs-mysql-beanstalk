@@ -1,6 +1,6 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "123456",
-  DB: "testdb"
+  HOST: "linksdb.cfvjrbzxmsa4.us-east-1.rds.amazonaws.com",
+  USER: "admin",
+  PASSWORD: "laodai123",
+  DB: "linksdb"
 };
